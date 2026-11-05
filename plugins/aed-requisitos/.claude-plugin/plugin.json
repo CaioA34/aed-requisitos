@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "aed-requisitos",
+  "version": "0.3.0",
+  "description": "Especificar, gerar e avaliar sistemas a partir de documentos de requisitos (MVP do processo AED)",
+  "author": {
+    "name": "Caio Almeida",
+    "email": "caioaoliveira34@gmail.com"
+  }
+}
